@@ -1,5 +1,5 @@
-let apples = 5;
-let speed: string = "fast";
+let apples = 5; // type inference
+let speed: string = "fast"; // type annotation
 let hasName: boolean = true;
 
 let nothingMuch: null = null;
